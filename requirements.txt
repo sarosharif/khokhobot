@@ -1,0 +1,5 @@
+Flask==2.3.3
+chatterbot==1.0.5
+chatterbot_corpus==1.2.0
+PyYAML==5.1.1
+gunicorn==21.2.0
