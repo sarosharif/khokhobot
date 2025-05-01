@@ -1,6 +1,5 @@
 Flask==2.3.3
 gunicorn==21.2.0
-chatterbot==1.2.7
 chatterbot_corpus==1.2.0
 setuptools<65
 git+https://github.com/gunthercox/ChatterBot.git@master#egg=chatterbot
